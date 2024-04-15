@@ -14,7 +14,7 @@
     align-items: center;
     max-width: 1200px;
     width: 100%;
-    margin: 0 auto;
+    margin: 0%; 
 }
 .titulo-principal {
     text-align: left;
